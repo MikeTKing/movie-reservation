@@ -1,6 +1,6 @@
 # 🎬 Movie Reservation System
 
-A production-ready REST API built with **Java 17 + Spring Boot 3** for browsing movies, scheduling showtimes, and reserving seats — with role-based access control, overbooking prevention, and admin reporting.
+A production-ready REST API built with **Java 21 + Spring Boot 3** for browsing movies, scheduling showtimes, and reserving seats — with role-based access control, overbooking prevention, and admin reporting.
 
 ---
 
