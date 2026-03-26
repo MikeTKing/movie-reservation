@@ -23,7 +23,7 @@ A production-ready REST API built with **Java 17 + Spring Boot 3** for browsing 
 
 | Layer          | Technology                          |
 |----------------|-------------------------------------|
-| Language       | Java 17                             |
+| Language       | Java 21                             |
 | Framework      | Spring Boot 3.2                     |
 | Security       | Spring Security + JWT (jjwt 0.12)   |
 | Persistence    | Spring Data JPA + Hibernate         |
