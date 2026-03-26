@@ -233,7 +233,7 @@ docker compose up --build
 ## Running Locally
 
 ### Prerequisites
-- Java 17+
+- Java 21+
 - Maven 3.9+
 - PostgreSQL 16 running locally
 
